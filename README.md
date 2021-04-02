@@ -9,7 +9,7 @@ I used Google Colab to run this analysis. It is a Jupyter notebook hosted on Goo
 As a part of the analysis in Python, I used pandas, numpy, seaborn and pandasql to do the data wrangling. I also uploaded the csv files onto Google Drive first and loaded files into my Jupyter notebook from Google Drive.
 
 # Project motivation
-I wanted to look at Airbnb data as it has interesting real world implications related to tourism, travel and housing availability. I wanted to look at 5 interesting business questions about the data and understand what it would mean
+I wanted to look at Airbnb data as it has interesting real world implications related to tourism, travel and housing availability. I wanted to look at 5 interesting business questions about the data and understand what it would mean.
 
 # File descriptions
 There are 2 files used for the analysis here. I have included them in the repo.
