@@ -6,6 +6,8 @@ I have detailed my findings in a blog post which can seen here: https://premys.m
 # Installations
 I used Google Colab to run this analysis. It is a Jupyter notebook hosted on Google Cloud, ensuring that there is no need to run anything on a local machine, since everything is stored and run in the cloud. One can proceed to https://colab.sandbox.google.com/ to get started.
 
+As a part of the analysis in Python, I used pandas, numpy, seaborn and pandasql to do that data wrangling. I also uploaded the csv files onto Google Drive first and loaded files into my Jupyter notebook from Google Drive.
+
 # Project motivation
 I wanted to look at Airbnb dataset as it has interesting real world implications related to travel and housing availability. 
 
