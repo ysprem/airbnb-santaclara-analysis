@@ -4,7 +4,7 @@ In this repo, I am going to host all the code related to analysis of Airbnb data
 I have detailed my findings in a blog post which can seen here: https://premys.medium.com/a-look-into-santa-clara-county-airbnb-data-fc8117ad7339
 
 # Installations
-I used Google Colab to run this analysis. It is a Jupyter notebook hosted on Google Cloud, ensuring that there is no need to run anything locally on any machine, since everything is stored and run in the cloud. One can proceed to https://colab.sandbox.google.com/ to get started.
+I used Google Colab to run this analysis. It is a Jupyter notebook hosted on Google Cloud, ensuring that there is no need to run anything on a local machine, since everything is stored and run in the cloud. One can proceed to https://colab.sandbox.google.com/ to get started.
 
 # Project motivation
 I wanted to look at Airbnb dataset as it has interesting real world implications related to travel and housing availability. 
