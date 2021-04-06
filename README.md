@@ -11,10 +11,10 @@ As a part of the analysis in Python, I used pandas, numpy, seaborn and pandasql 
 # Project motivation
 I wanted to look at Airbnb data as it has interesting real world implications related to tourism, travel and housing availability. I wanted to look at 5 interesting business questions about the data and understand what it would mean.
 # 1: Which city in Santa Clara county has the most Airbnb listings? Which city has the least number of listings? What type of listings are they? (% of private room listings vs % of entire home listings vs % of shared room listings)
-# 2:Which city has received the most number of reviews from visitors? Which city has received the least? Which city has the most reviews on average per listing?
-# 3:In which month do we see a spike in reviews during the year?
-# 4:Which city has the highest average price and lowest average price? Does it change if we look at median prices?
-# 5:How many hosts have only 1 listing, how many have more than 1 listing?
+# 2: Which city has received the most number of reviews from visitors? Which city has received the least? Which city has the most reviews on average per listing?
+# 3: In which month do we see a spike in reviews during the year?
+# 4: Which city has the highest average price and lowest average price? Does it change if we look at median prices?
+# 5: How many hosts have only 1 listing, how many have more than 1 listing?
 
 # File descriptions
 There are 2 files used for the analysis here. I have included them in the repo.
